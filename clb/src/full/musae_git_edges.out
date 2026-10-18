@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/musae_git_edges.txt
+
+Elapsed Time for Approximate Remove Max: 0.025856
+Approximate Remove Max Minimum is: 15228
+
+Original graph size = 37700
+reducedRootVertices = 15228, minimum = 15228
+
+All vertices are deleted by root reduction. Minimum is 15228
+Induced graph size = 37700
+Reduce and Induce time : 0.015182s
+
+Size of minimum vertex cover: 15228
+

@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/scc-infect-dublin.txt
+
+Elapsed Time for Approximate Remove Max: 0.177778
+Approximate Remove Max Minimum is: 9116
+
+Original graph size = 10972
+reducedRootVertices = 9103, minimum = 9116
+
+The Graph is empty
+Induced graph size = 0
+Reduce and Induce time : 0.014351s
+
+Size of minimum vertex cover: 9103
+

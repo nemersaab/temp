@@ -1,0 +1,31 @@
+
+Graph file: ../../../new-dataset/web-webbase-2001.txt
+
+Elapsed Time for Approximate Remove Max: 0.016742
+Approximate Remove Max Minimum is: 2653
+
+Original graph size = 16062
+reducedRootVertices = 1962, minimum = 2653
+Induced graph size = 1274
+min with approx = 690 and with subracting = 691
+Reduce and Induce time : 0.000805s
+
+Device name: Tesla V100-SXM3-32GB
+NumOfMultiProcessors : 80
+MaxThreadsPerMultiProcessor : 2048
+MaxThreadsPerBlock : 1024
+MaxSharedMemPerMultiProcessor : 98304
+
+DataType 'short' was used for vertexDegrees
+globalListSize = 524288
+compArraySize = 250000000
+Use Shared Mem : 1
+sharedMemUsed = 85376
+
+Our Config :
+NumOfThreadPerBlocks : 128
+NumOfBlocks : 1280
+NumOfBlockPerSM : 16
+NumOfThreadsPerSM : 2048
+
+GPU Error: an illegal memory access was encountered

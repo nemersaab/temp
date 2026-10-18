@@ -1,0 +1,35 @@
+
+Graph file: ../../../new-dataset/san400_0.7_1.txt
+
+Elapsed Time for Approximate Remove Max: 0.007915
+Approximate Remove Max Minimum is: 389
+
+Original graph size = 400
+reducedRootVertices = 0, minimum = 389
+Induced graph size = 400
+min with approx = 389 and with subracting = 389
+Reduce and Induce time : 0.007670s
+
+Device name: Tesla V100-SXM3-32GB
+NumOfMultiProcessors : 80
+MaxThreadsPerMultiProcessor : 2048
+MaxThreadsPerBlock : 1024
+MaxSharedMemPerMultiProcessor : 98304
+
+DataType 'short' was used for vertexDegrees
+globalListSize = 524288
+compArraySize = 250000000
+Use Shared Mem : 1
+sharedMemUsed = 58880
+
+Our Config :
+NumOfThreadPerBlocks : 64
+NumOfBlocks : 2560
+NumOfBlockPerSM : 32
+NumOfThreadsPerSM : 2048
+
+compArrayIndex = 0
+
+Elapsed time: 8052.723066ms 
+Size of minimum vertex cover: 389
+

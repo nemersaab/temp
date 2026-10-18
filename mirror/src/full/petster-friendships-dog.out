@@ -1,0 +1,31 @@
+
+Graph file: ../../../new-dataset/petster-friendships-dog.txt
+
+Elapsed Time for Approximate Remove Max: 256.516496
+Approximate Remove Max Minimum is: 150736
+
+Original graph size = 426820
+reducedRootVertices = 149513, minimum = 150736
+Induced graph size = 1112
+min with approx = 611 and with subracting = 1223
+Reduce and Induce time : 0.001723s
+
+Device name: Tesla V100-SXM3-32GB
+NumOfMultiProcessors : 80
+MaxThreadsPerMultiProcessor : 2048
+MaxThreadsPerBlock : 1024
+MaxSharedMemPerMultiProcessor : 98304
+
+DataType 'short' was used for vertexDegrees
+globalListSize = 524288
+compArraySize = 250000000
+Use Shared Mem : 1
+sharedMemUsed = 75008
+
+Our Config :
+NumOfThreadPerBlocks : 128
+NumOfBlocks : 1280
+NumOfBlockPerSM : 16
+NumOfThreadsPerSM : 2048
+
+GPU Error: an illegal memory access was encountered

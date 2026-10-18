@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/formated_wikipedia_link_csb.txt
+
+Elapsed Time for Approximate Remove Max: 0.026073
+Approximate Remove Max Minimum is: 2014
+
+Original graph size = 5561
+reducedRootVertices = 1998, minimum = 2014
+
+The Graph is empty
+Induced graph size = 0
+Reduce and Induce time : 0.080737s
+
+Size of minimum vertex cover: 1998
+

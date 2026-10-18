@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/mhda416.txt
+
+Elapsed Time for Approximate Remove Max: 0.000442
+Approximate Remove Max Minimum is: 256
+
+Original graph size = 415
+reducedRootVertices = 256, minimum = 256
+
+All vertices are deleted by root reduction. Minimum is 256
+Induced graph size = 415
+Reduce and Induce time : 0.002764s
+
+Size of minimum vertex cover: 256
+

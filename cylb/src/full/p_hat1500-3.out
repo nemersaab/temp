@@ -1,0 +1,35 @@
+
+Graph file: ../../../new-dataset/p_hat1500-3.txt
+
+Elapsed Time for Approximate Remove Max: 0.322803
+Approximate Remove Max Minimum is: 1492
+
+Original graph size = 1500
+reducedRootVertices = 0, minimum = 1492
+Induced graph size = 1500
+min with approx = 1492 and with subracting = 1492
+Reduce and Induce time : 0.315871s
+
+Device name: Tesla V100-SXM3-32GB
+NumOfMultiProcessors : 80
+MaxThreadsPerMultiProcessor : 2048
+MaxThreadsPerBlock : 1024
+MaxSharedMemPerMultiProcessor : 98304
+
+DataType 'short' was used for vertexDegrees
+globalListSize = 524288
+compArraySize = 250000000
+Use Shared Mem : 1
+sharedMemUsed = 49920
+
+Our Config :
+NumOfThreadPerBlocks : 256
+NumOfBlocks : 640
+NumOfBlockPerSM : 8
+NumOfThreadsPerSM : 2048
+
+compArrayIndex = 0
+
+Elapsed time: 108451.605374ms 
+Size of minimum vertex cover: 1488
+

@@ -1,0 +1,35 @@
+
+Graph file: ../../../new-dataset/C1000.9.txt
+
+Elapsed Time for Approximate Remove Max: 0.144647
+Approximate Remove Max Minimum is: 996
+Elapsed Time for Approximate Remove Edge: 0.144059
+Approximate Remove Edge Minimum is: 998
+
+Original graph size = 1000
+Induced graph size = 1000
+Reduce and Induce time : 0.038388s
+
+Device name: Tesla V100-PCIE-32GB
+NumOfMultiProcessors : 80
+MaxThreadsPerMultiProcessor : 2048
+MaxThreadsPerBlock : 1024
+MaxSharedMemPerMultiProcessor : 98304
+
+DataType 'short' was used for vertexDegrees
+globalListSize = 524288
+compArraySize = 700000000
+Use Shared Mem : 1
+sharedMemUsed = 65792
+
+Our Config :
+NumOfThreadPerBlocks : 128
+NumOfBlocks : 1280
+NumOfBlockPerSM : 16
+NumOfThreadsPerSM : 2048
+
+compArrayIndex = 0
+
+Elapsed time: 12123.992071ms 
+Size of minimum vertex cover: 994
+

@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/CA-GrQc.txt
+
+Elapsed Time for Approximate Remove Max: 0.027932
+Approximate Remove Max Minimum is: 2783
+
+Original graph size = 26184
+reducedRootVertices = 2783, minimum = 2783
+
+All vertices are deleted by root reduction. Minimum is 2783
+Induced graph size = 26184
+Reduce and Induce time : 0.009651s
+
+Size of minimum vertex cover: 2783
+

@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/CA-CondMat.txt
+
+Elapsed Time for Approximate Remove Max: 0.733543
+Approximate Remove Max Minimum is: 13522
+
+Original graph size = 108299
+reducedRootVertices = 13521, minimum = 13522
+
+The Graph is empty
+Induced graph size = 0
+Reduce and Induce time : 0.206684s
+
+Size of minimum vertex cover: 13521
+

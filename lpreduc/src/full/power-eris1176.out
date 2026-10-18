@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/power-eris1176.txt
+
+Elapsed Time for Approximate Remove Max: 0.001122
+Approximate Remove Max Minimum is: 745
+
+Original graph size = 1176
+reducedRootVertices = 744, minimum = 745
+
+The Graph is empty
+Induced graph size = 0
+Reduce and Induce time : 0.000585s
+
+Size of minimum vertex cover: 744
+

@@ -1,0 +1,34 @@
+
+Graph file: ../../../new-dataset/C500.9.txt
+
+Elapsed Time for Approximate Remove Max: 0.030726
+Approximate Remove Max Minimum is: 496
+
+Original graph size = 500
+reducedRootVertices = 0, minimum = 496
+Induced graph size = 500
+Reduce and Induce time : 0.132055s
+
+Device name: Tesla V100-PCIE-32GB
+NumOfMultiProcessors : 80
+MaxThreadsPerMultiProcessor : 2048
+MaxThreadsPerBlock : 1024
+MaxSharedMemPerMultiProcessor : 98304
+
+DataType 'short' was used for vertexDegrees
+globalListSize = 524288
+compArraySize = 250000000
+Use Shared Mem : 1
+sharedMemUsed = 71680
+
+Our Config :
+NumOfThreadPerBlocks : 64
+NumOfBlocks : 2560
+NumOfBlockPerSM : 32
+NumOfThreadsPerSM : 2048
+
+compArrayIndex = 0
+
+Elapsed time: 26840.650247ms 
+Size of minimum vertex cover: 495
+

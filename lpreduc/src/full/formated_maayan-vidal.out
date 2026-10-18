@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/formated_maayan-vidal.txt
+
+Elapsed Time for Approximate Remove Max: 0.000334
+Approximate Remove Max Minimum is: 1077
+
+Original graph size = 3133
+reducedRootVertices = 1077, minimum = 1077
+
+All vertices are deleted by root reduction. Minimum is 1077
+Induced graph size = 3133
+Reduce and Induce time : 0.000405s
+
+Size of minimum vertex cover: 1077
+

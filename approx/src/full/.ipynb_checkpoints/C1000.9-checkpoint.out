@@ -1,0 +1,30 @@
+
+Graph file: ../../../new-dataset/C1000.9.txt
+
+Elapsed Time for Approximate Remove Max: 0.133436
+Approximate Remove Max Minimum is: 996
+
+Original graph size = 1000
+reducedRootVertices = 0, minimum = 996
+Induced graph size = 1000
+Reduce and Induce time : 0.478452s
+
+Device name: Tesla V100-SXM3-32GB
+NumOfMultiProcessors : 80
+MaxThreadsPerMultiProcessor : 2048
+MaxThreadsPerBlock : 1024
+MaxSharedMemPerMultiProcessor : 98304
+
+DataType 'short' was used for vertexDegrees
+globalListSize = 524288
+compArraySize = 250000000
+Use Shared Mem : 1
+sharedMemUsed = 73728
+
+Our Config :
+NumOfThreadPerBlocks : 128
+NumOfBlocks : 1280
+NumOfBlockPerSM : 16
+NumOfThreadsPerSM : 2048
+
+GPU Error: an illegal memory access was encountered

@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/Email-Enron.txt
+
+Elapsed Time for Approximate Remove Max: 0.217354
+Approximate Remove Max Minimum is: 14437
+
+Original graph size = 36692
+reducedRootVertices = 14437, minimum = 14437
+
+All vertices are deleted by root reduction. Minimum is 14437
+Induced graph size = 36692
+Reduce and Induce time : 0.091664s
+
+Size of minimum vertex cover: 14437
+

@@ -1,0 +1,35 @@
+
+Graph file: ../../../new-dataset/formated_maayan-figeys.txt
+
+Elapsed Time for Approximate Remove Max: 0.000210
+Approximate Remove Max Minimum is: 316
+Elapsed Time for Approximate Remove Edge: 0.006301
+Approximate Remove Edge Minimum is: 316
+
+Original graph size = 2239
+Induced graph size = 2239
+Reduce and Induce time : 0.000073s
+
+Device name: Tesla V100-SXM3-32GB
+NumOfMultiProcessors : 80
+MaxThreadsPerMultiProcessor : 2048
+MaxThreadsPerBlock : 1024
+MaxSharedMemPerMultiProcessor : 98304
+
+DataType 'short' was used for vertexDegrees
+globalListSize = 524288
+compArraySize = 700000000
+Use Shared Mem : 1
+sharedMemUsed = 72544
+
+Our Config :
+NumOfThreadPerBlocks : 256
+NumOfBlocks : 640
+NumOfBlockPerSM : 8
+NumOfThreadsPerSM : 2048
+
+compArrayIndex = 0
+
+Elapsed time: 0.434356ms 
+Size of minimum vertex cover: 316
+

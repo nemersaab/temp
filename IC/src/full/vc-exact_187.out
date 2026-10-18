@@ -1,0 +1,31 @@
+
+Graph file: ../../../new-dataset/vc-exact_187.txt
+
+Elapsed Time for Approximate Remove Max: 0.004698
+Approximate Remove Max Minimum is: 2756
+
+Original graph size = 4227
+reducedRootVertices = 1, minimum = 2756
+Induced graph size = 4226
+min with approx = 2755 and with subracting = 2755
+Reduce and Induce time : 0.003900s
+
+Device name: Tesla V100-SXM3-32GB
+NumOfMultiProcessors : 80
+MaxThreadsPerMultiProcessor : 2048
+MaxThreadsPerBlock : 1024
+MaxSharedMemPerMultiProcessor : 98304
+
+DataType 'short' was used for vertexDegrees
+globalListSize = 524288
+compArraySize = 250000000
+Use Shared Mem : 1
+sharedMemUsed = 68576
+
+Our Config :
+NumOfThreadPerBlocks : 512
+NumOfBlocks : 320
+NumOfBlockPerSM : 4
+NumOfThreadsPerSM : 2048
+
+GPU Error: an illegal memory access was encountered

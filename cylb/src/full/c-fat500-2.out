@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/c-fat500-2.txt
+
+Elapsed Time for Approximate Remove Max: 0.000886
+Approximate Remove Max Minimum is: 481
+
+Original graph size = 500
+reducedRootVertices = 480, minimum = 481
+
+The Graph is empty
+Induced graph size = 0
+Reduce and Induce time : 0.002144s
+
+Size of minimum vertex cover: 480
+

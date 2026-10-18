@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/c-fat200-2.txt
+
+Elapsed Time for Approximate Remove Max: 0.000237
+Approximate Remove Max Minimum is: 191
+
+Original graph size = 200
+reducedRootVertices = 191, minimum = 191
+
+All vertices are deleted by root reduction. Minimum is 191
+Induced graph size = 200
+Reduce and Induce time : 0.000739s
+
+Size of minimum vertex cover: 191
+

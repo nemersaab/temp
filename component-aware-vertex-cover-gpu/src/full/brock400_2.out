@@ -1,0 +1,35 @@
+
+Graph file: ../../../new-dataset/brock400_2.txt
+
+Elapsed Time for Approximate Remove Max: 0.008573
+Approximate Remove Max Minimum is: 395
+Elapsed Time for Approximate Remove Edge: 0.007979
+Approximate Remove Edge Minimum is: 397
+
+Original graph size = 400
+Induced graph size = 400
+Reduce and Induce time : 0.004587s
+
+Device name: Tesla V100-SXM3-32GB
+NumOfMultiProcessors : 80
+MaxThreadsPerMultiProcessor : 2048
+MaxThreadsPerBlock : 1024
+MaxSharedMemPerMultiProcessor : 98304
+
+DataType 'short' was used for vertexDegrees
+globalListSize = 524288
+compArraySize = 700000000
+Use Shared Mem : 1
+sharedMemUsed = 54784
+
+Our Config :
+NumOfThreadPerBlocks : 64
+NumOfBlocks : 2560
+NumOfBlockPerSM : 32
+NumOfThreadsPerSM : 2048
+
+compArrayIndex = 0
+
+Elapsed time: 2638.903081ms 
+Size of minimum vertex cover: 392
+

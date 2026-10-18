@@ -1,0 +1,30 @@
+
+Graph file: ../../../new-dataset/RO_edges.txt
+
+Elapsed Time for Approximate Remove Max: 0.808530
+Approximate Remove Max Minimum is: 21944
+Elapsed Time for Approximate Remove Edge: 3.920477
+Approximate Remove Edge Minimum is: 23012
+
+Original graph size = 41773
+Induced graph size = 20939
+Reduce and Induce time : 0.163503s
+
+Device name: Tesla V100-SXM3-32GB
+NumOfMultiProcessors : 80
+MaxThreadsPerMultiProcessor : 2048
+MaxThreadsPerBlock : 1024
+MaxSharedMemPerMultiProcessor : 98304
+
+DataType 'short' was used for vertexDegrees
+globalListSize = 65536
+compArraySize = 700000000
+Use Shared Mem : 0
+
+Our Config :
+NumOfThreadPerBlocks : 1024
+NumOfBlocks : 41
+NumOfBlockPerSM : 2
+NumOfThreadsPerSM : 2048
+
+GPU Error: an illegal memory access was encountered

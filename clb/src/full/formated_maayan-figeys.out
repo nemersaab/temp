@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/formated_maayan-figeys.txt
+
+Elapsed Time for Approximate Remove Max: 0.000222
+Approximate Remove Max Minimum is: 316
+
+Original graph size = 2239
+reducedRootVertices = 316, minimum = 316
+
+All vertices are deleted by root reduction. Minimum is 316
+Induced graph size = 2239
+Reduce and Induce time : 0.000091s
+
+Size of minimum vertex cover: 316
+

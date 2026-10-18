@@ -1,0 +1,5 @@
+
+
+=== STDERR ===
+./output: /lib64/libstdc++.so.6: version `CXXABI_1.3.9' not found (required by ./output)
+./output: /lib64/libstdc++.so.6: version `CXXABI_1.3.8' not found (required by ./output)

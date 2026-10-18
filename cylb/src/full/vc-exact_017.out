@@ -1,0 +1,15 @@
+
+Graph file: ../../../new-dataset/vc-exact_017.txt
+
+Elapsed Time for Approximate Remove Max: 0.161213
+Approximate Remove Max Minimum is: 12092
+
+Original graph size = 23541
+reducedRootVertices = 12082, minimum = 12092
+
+The Graph is empty
+Induced graph size = 0
+Reduce and Induce time : 0.099349s
+
+Size of minimum vertex cover: 12082
+
