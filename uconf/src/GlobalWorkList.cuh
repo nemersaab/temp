@@ -291,13 +291,13 @@ __global__ void FUNCTION_NAME(GlobalWorkList_shared_kernel)(Stacks<INT_OR_SHORT>
                     if(numDeletedVerticesHighDegree>0)  
                         continue;
                     
-                    startTime(INDUCED_CLIQUE_REDUCTION,&blockCounters);
+                   /* startTime(INDUCED_CLIQUE_REDUCTION,&blockCounters);
                     numDeletedVerticesInducedClique = inducedCliqueReductionRule(graph.vertexNum, vertexDegrees_s, graph, vertexDegrees_s2, left, right);
                     endTime(INDUCED_CLIQUE_REDUCTION,&blockCounters);
                     numDeletedVertices += numDeletedVerticesInducedClique;
                     if(numDeletedVerticesInducedClique>0)  
                         continue;
-                    
+                    */
                     startTime(DOMINANCE_REDUCTION,&blockCounters);
                     numDeletedVerticesDominance = DominanceRule(graph.vertexNum, vertexDegrees_s, graph, vertexDegrees_s2, left, right);
                     endTime(DOMINANCE_REDUCTION,&blockCounters);

@@ -1,0 +1,4 @@
+exit_code=0
+elapsed_seconds=4
+graph=/home/nas83/scratch/Thesis/new-dataset/PROTEINS-full.txt
+variant=cylb

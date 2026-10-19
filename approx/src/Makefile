@@ -4,7 +4,7 @@ COUNT_BRANCHING_ON_COMPONENTS=0
 
 DEFS= -DUSE_COUNTERS=$(USE_COUNTERS) -DRUN_KILL_TIMEOUT=$(RUN_KILL_TIMEOUT) -DCOUNT_BRANCHING_ON_COMPONENTS=$(COUNT_BRANCHING_ON_COMPONENTS)
 
-NVCC_FLAGS= -maxrregcount=31 -O3 -w -gencode arch=compute_70,code=sm_70 -std=c++11 
+NVCC_FLAGS= -maxrregcount=31 -O3 -w -gencode arch=compute_80,code=sm_80 -std=c++11 
 
 output: auxFunctions.o CSRGraphRep.o main.o Sequential.o helperFunctions.o SequentialParameterized.o crown.o hopcroft_karp.o
 	nvcc $(NVCC_FLAGS) auxFunctions.o CSRGraphRep.o helperFunctions.o Sequential.o SequentialParameterized.o crown.o hopcroft_karp.o main.o -o output

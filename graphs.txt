@@ -1,0 +1,2 @@
+/home/nas83/scratch/Thesis/new-dataset/PROTEINS-full.txt
+/home/nas83/scratch/Thesis/new-dataset/SYNTHETIC.txt
