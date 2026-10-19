@@ -5,7 +5,7 @@
 # ROOT is taken from the environment if set (the sbatch job sets it to
 # $SLURM_SUBMIT_DIR, because Slurm runs a copy of the script from a spool dir).
 ROOT="${ROOT:-$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)}"
-DATASET="$(cd "$ROOT/.." && pwd)/new-dataset"
+DATASET="$(cd "$ROOT/.." && pwd)/vc-exact"
 
 # Flag value passed as:  ./output -v $VERSION -f <graph>
 VERSION="hybrid"
